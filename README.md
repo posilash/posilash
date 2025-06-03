@@ -1,8 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!</h1>
 
 
-<p>Welcome to my page! </br> I just do some things and know some things. </p>
-<h3>Some of the things i use and know</h3>
+<p>Welcome to my page! </br> I can see you've somehow stumpled upon my page, so a liitle about me.<br>
+I'm not some "blah blah" at some "blah blah", I just enjoy tech and know some things, I use those things to do what I want or need, mostly want. </p>
+
+> ⚠️ **quick note:** Most things here are unmaintained and could stop working at any time. Except my dotfiles, I use those everyday.
+
+<h3>Some of the things I know and use</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" />
