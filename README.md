@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!</h1>
 
 
-<p>Welcome to my page! </br> I can see you've somehow stumpled upon my page, so here's a little about me.<br>
+<p>Welcome to my page! </br> I can see you've somehow stumbled upon my page, so here's a little about me.<br>
 I'm not some "blah blah" at some "blah blah", I just enjoy tech and know some things, I use those things to do what I want or need, mostly want. </p>
 
 > ⚠️ **quick note:** Most things here are unmaintained and could stop working at any time. Except my dotfiles, I use those everyday.
